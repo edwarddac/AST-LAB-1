@@ -1,0 +1,36 @@
+# Distance Measurments for LAB 1 of AST 325
+# A series of astronomical observations using a CCD to determine distance to
+# a nearby star. The below represents measurments made by repeating the same
+# 30 times
+
+# Distance (parsecs)    measurement error (parsec)
+38.91   1.41
+37.14   0.36
+38.19   0.69
+41.03   3.53
+34.86   2.64
+37.33   0.17
+35.16   2.34
+37.96   0.46
+36.93   0.57
+40.41   2.91
+29.50   8.00
+37.33   0.17
+41.84   4.34
+37.53   0.03
+34.12   3.38
+34.11   3.39
+37.94   0.44
+34.43   3.07
+36.68   0.82
+41.31   3.81
+39.61   2.11
+35.48   2.02
+34.98   2.52
+39.05   1.55
+39.62   2.12
+37.96   0.46
+39.02   1.52
+37.47   0.03
+33.76   3.74
+36.51   0.99
